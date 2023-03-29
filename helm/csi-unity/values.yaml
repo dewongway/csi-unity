@@ -244,3 +244,5 @@ tenantName: ""
 images:
   # "driver" defines the container image, used for the driver container.
   driverRepository: dellemc
+
+ReleaseName: unity
